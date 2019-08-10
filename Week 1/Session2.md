@@ -1,9 +1,13 @@
+
+
+# Session 2 Git learning
+
 Today's class we expand on learning git commands and are taken through some git commands that are commonly used like:
 
-    ~ git branching - lets you build a new branch or timeline of commits
-    ~ git checkout -b "NEW branch" - The -b indicates to create a new branch and the same time check out of that branch
-    ~ git merge - you can merge your changes back to the master branch
-    ~ and reversing changes in git. 
+    * git branching - lets you build a new branch or timeline of commits
+    * git checkout -b "NEW branch" - The -b indicates to create a new branch and the same time check out of that branch
+    * git merge - you can merge your changes back to the master branch
+    * and reversing changes in git. 
     
 Followed by some scenarios that Ali has experienced, for instance, what happens if the one was to merge there work to
 the master when a team of developers is all pulling and pushing there work all at once and so on.
