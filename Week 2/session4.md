@@ -1,6 +1,6 @@
 
 # Session 4 Working az One
-![octoGit](git 1.png)
+![octoGit](/git 1.png)
 Our tutor is a wealth of information and has provided many resources for our learning experience. Currently, we are diving into HTML, CSS and JavaScript tutorials in **"codecademy"** some are quite lengthy but! very good and I am finding I am learning quite a lot. Some of the tutorials is a refresher from 2 years ago but I am 60% into a tutorial and the elements are now new to me.
 
 I have yet to complete the last 8 tasks in **"learngitbranching"** as it is I have completed quite a lot of the material provided and still remain stuck on how to create a file in GitHub from vs code and git push or do I git pull or commit to the branch - I managed to do it twice and now I error out.
