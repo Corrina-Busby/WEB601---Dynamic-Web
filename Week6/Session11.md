@@ -8,14 +8,13 @@ to come along today to learn JavaScipt. To start Ali had us join a Meetup group 
 can get together and group code and just hang out.
 The next meeting will be at the Speights Alehouse on the 27th of September, this will be fun.
 
-In class today Ali had us on freeCodeCamp an environment where we can learn to code for free. 
-Being not so flash at JavaScript it has been recommended I start with the Basic JavaScript exercises. 
-JavaScipt is going to be needed more as we work through our projects.
+In class today Ali had us on freeCodeCamp an environment where we can learn to code for free.
+Our tutor drops that we will be preparing for Redux which involves JavaScript. There are quite a few 
+people in the class who are new to JavaScript like myself which is a tad unfortunate and not so good 
+our tutor has been led to believe we were all familiar with. No worries we will all get there in the end.
 
-Ali drops that we will be preparing for Redux which involves JavaScript. A few people in the
-class are new to JavaScript like me which is a tad unfortunate and not so good that Ali our
-tutor has been led to believe we were all familiar with JavaScript. No worries we will all get
-there in the end.
+Being not so flash at JavaScript it has been recommended I start with the Basic exercises. JavaScipt is 
+going to be needed more as we work through our projects.
 
 ### Website ###
 
