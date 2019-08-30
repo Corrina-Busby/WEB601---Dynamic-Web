@@ -1,7 +1,6 @@
 #  Week 5 Session 9
 ![aboutNav](navBeeCourse.PNG)
 
-
 Today in class Ali the tutor took us through building an app from the ground up.
 This came about with the student needs within the class - a good percentage in the class are struggling 
 to glue together the learning to produce a website.
