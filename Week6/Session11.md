@@ -1,7 +1,7 @@
 
 ![meetUp](meetUp.PNG)
 
-# Week 4 Session 11
+# Week 6 Session 11
 
 This week is non-contact week, we have no classes but! Ali offered his pressence if anyone wanted
 to come along today to learn JavaScipt. To start Ali had us join a Meetup group app where the class 
