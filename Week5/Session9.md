@@ -1,5 +1,5 @@
 #  Week 5 Session 9
-![aboutNav](navBeeCourse.png)
+![aboutNav](navBeeCourse.PNG)
 
 
 Today in class Ali the tutor took us through building an app from the ground up.
