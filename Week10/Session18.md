@@ -6,10 +6,10 @@ What is Redux you ask? I really struggle to answer at this point of time. Does m
 Relationship between React and Redux 
 I have no idea 
 
-In class I learned that Redux is some kind of state container for JavaScript apps and helps with the STATE management of your application. Say for instance the management of the data displayed and the reaponse to user actions. Redux maintains the STATE of the entire application in one immutable state tree(object), which cannot be changed directly. When some does change a NEW object is created(using actions and reducers).
+In class I learned that Redux is some kind of state container for JavaScript apps and helps with the STATE management of your application. Say for instance the management of the data displayed and the response to user actions. Redux maintains the STATE of the entire application in one immutable state tree(object), which cannot be changed directly. When something does change a NEW object is created(using actions and reducers).
 
-Following a tutorial that Tutor Ali have us start in class was not the easiest tutorial it was all backwards and come to the end the code source was all there and when running the source code it did not work. Ali gave us a copy of his repo of the same tutorial and when classmates popped it in to run it worked. 
-Class finished with confusion but I had the react react tutorial to go home and work on. Jason a class collegue had found a Redux Tutorial that is more relatable and made more sense than the react-redux tutorial. With that link I will be heading home and spending some hours trying to understand Redux and how to implement it into my web application.
+Following a tutorial that Tutor Ali have us start was not the easiest tutorial to follow it was all backwards and come to the end of the tutorial upon running the source code it did not work. Ali gave us a copy of his repo of the same tutorial and when classmates ran it in vs code it worked. NO idea why that would be. 
+Class finished with confusion but, we had the react react tutorial to go home to and work through on our own time. Jason a class collegue had found a Redux Tutorial that is more relatable and made more sense than the react-redux tutorial we attempted in class. With that link I will be heading home and spending some hours trying to understand Redux and how to implement it into my web application.
 
 At this time I still walk away unsure what Redux can fully do for my web application or what is Redux other than it could quite well be a security measure on the state of your app. 
 
