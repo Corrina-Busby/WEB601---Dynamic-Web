@@ -1,8 +1,6 @@
-# Week 8 Session 15
+# Week 8 Session 16
 
 ## Well that was a trip!
-
-### Postman - APIS
 
 So today was a continuation from a section from Wednesdays class, I have walked in 7 minutes late which was a terrible rookie 
 move and it would appear these guys are right in the middle of an exercise. I take a long hard look at the projector and figure
