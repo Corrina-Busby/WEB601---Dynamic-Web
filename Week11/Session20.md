@@ -1,4 +1,4 @@
-# Week 11 Session 19
+# Week 11 Session 20
 
 Server Side Development 
 Today I learnt that most websites use some kind of server side technology to dynamically render different data when required. For example in my BeeCourse's website if I wish to add a course to the wesite I can and if i need to adjust the cost or details of the course I can because i am rendering a static template usng HTML, CSS and JavaScript I can dynamically update the data displayed inside those templates when needed.
